@@ -13,6 +13,7 @@
 - 在vscode的终端（或者powershell中）中执行`test-maven.ps1`脚本测试配置是否正确（可以看到maven版本信息）
 - 在vscode的终端（或者powershell中）中执行`java-cmd.ps1`脚本可以得到一个配置过java环境变量的命令行，可以执行java相关指令
 - 在vscode的终端（或者powershell中）中执行`maven-cmd.ps1`脚本可以得到一个配置过maven环境变量的命令行，可以执行maven相关指令
+- - [使用阿里云maven仓库的配置模板](./settings.xml)
 
 ## 指令相关
 
